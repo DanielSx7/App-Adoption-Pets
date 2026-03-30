@@ -1,5 +1,3 @@
-# App-Adoption-Pets
-
 # 🐾 App de Adoção de Pets
 
 # Projeto de extensão - Disciplina: Desenvolvimento para Dispositivos Móveis
